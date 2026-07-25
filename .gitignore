@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+*.jks
+*.keystore
+*.zip
+*.apk
+*.apk.sha256
+!TTSReader-v20-app-debug.apk
+
