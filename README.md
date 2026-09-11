@@ -1,3 +1,9 @@
+<!-- app-release:start -->
+[**Descargar APK v20**](https://github.com/ricardoyf/TTSReader/releases/download/v20/TTSReader-v20-app-debug.apk) · [SHA-256](https://github.com/ricardoyf/TTSReader/releases/download/v20/TTSReader-v20-app-debug.apk.sha256)
+
+`7ae32bef4035b3d3f132de534a8c61bf4e8e9894b4751687cb67aebeed825f8a`
+<!-- app-release:end -->
+
 # TTSReader v20
 
 App Android nativa en **Kotlin + Jetpack Compose** para leer archivos **.txt, .md y .markdown** en el móvil y escucharlos con el TTS nativo de Android.
